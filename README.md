@@ -8,6 +8,8 @@ In this example the `localeNo` and `localeEn` classes are used for Norwegian and
 
 This website depends on <a href="https://jquery.com/">jQuery</a>. If you use other frameworks such as Bootstrap, jQuery is already included there. Additionally it makes use of <a href="https://github.com/js-cookie/js-cookie">js-cookie</a>.
 
+Flag icons by [Icon Drawer](http://www.icondrawer.com/flag-icons.php). Please check [their terms](http://www.icondrawer.com/flag-icons.php) before using them for your own site.
+
 ## Demo
 
 An online demo version of this web site [can be found here](http://multilingual.trondlossius.no/another.htm).
