@@ -12,5 +12,5 @@ Flag icons by [Icon Drawer](http://www.icondrawer.com/flag-icons.php). Please ch
 
 ## Demo
 
-An online demo version of this web site [can be found here](http://multilingual.trondlossius.no/another.htm).
+An online demo version of this web site [can be found here](http://multilingual.trondlossius.no/).
 
